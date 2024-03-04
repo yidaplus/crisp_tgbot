@@ -34,3 +34,7 @@ docker ps -a
 ```
 docker logs [容器名称或ID]
 ```
+强制删除容器
+```
+docker rm -f [容器名称或ID]
+```
