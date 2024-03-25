@@ -5,6 +5,5 @@ services:
     image: yidaplus/crisp_tgbot:latest
     environment:
       BOT_TOKEN: Telegram 联系@botfather创建机器人Token
-      MAX_LOGIN: 1
       LICENSE: 联系tg @pmmuzi_bot 获取license
     network_mode: host
